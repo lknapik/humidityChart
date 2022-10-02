@@ -1,6 +1,6 @@
 from psychrochart import PsychroChart
 import matplotlib.pyplot as plt
-
+amb = __import__('ambient-weather-api.ambientweather_api')
 
 
 def gen_grad(progress):

@@ -1,0 +1,3 @@
+[submodule "ambient-weather-api"]
+	path = ambient-weather-api
+	url = https://github.com/bobcolner/ambient-weather-api.git
